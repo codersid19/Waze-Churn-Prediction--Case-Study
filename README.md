@@ -20,13 +20,10 @@ The data used in this analysis is sourced from Google datasets. You can download
 
 ## Results
 ![img1](https://github.com/codersid19/Waze-Churn-Prediction--Case-Study/assets/67604975/ef433824-b3c7-41a5-b9c2-68117a84fd01)
-![img1](https://github.com/codersid19/Waze-Churn-Prediction--Case-Study/assets/67604975/ef433824-b3c7-41a5-b9c2-68117a84fd01)
-![img2](https://github.com/codersid19/Waze-Churn-Prediction--Case-Study/assets/67604975/9827093a-763d-4695-bc9d-937b1e156838)
 ![img2](https://github.com/codersid19/Waze-Churn-Prediction--Case-Study/assets/67604975/9827093a-763d-4695-bc9d-937b1e156838)
 ![img3](https://github.com/codersid19/Waze-Churn-Prediction--Case-Study/assets/67604975/62309dfe-a7c0-4841-a801-51a9750ae195)
-![img3](https://github.com/codersid19/Waze-Churn-Prediction--Case-Study/assets/67604975/62309dfe-a7c0-4841-a801-51a9750ae195)
 ![img4](https://github.com/codersid19/Waze-Churn-Prediction--Case-Study/assets/67604975/692b2928-4de6-4519-8bcc-1950356b86e0)
-![img4](https://github.com/codersid19/Waze-Churn-Prediction--Case-Study/assets/67604975/692b2928-4de6-4519-8bcc-1950356b86e0)
+
 
 
 ## Contributing
